@@ -90,7 +90,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 20px 90px;
+    padding: 20px 80px;
     background: #6a35e6;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
     z-index: 999;
@@ -691,7 +691,7 @@ footer .copyright{
         position: fixed;
         top: 0;
         right: -200px;
-        width: 200px;
+        width: 150px;
         height: 100vh;
         background: #b3a31b;
         box-shadow: 0 40px 60px rgba(0, 0, 0, 0.1);
