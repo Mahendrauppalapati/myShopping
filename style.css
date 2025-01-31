@@ -673,7 +673,7 @@ footer .copyright{
 
 
 /* Mobile Navigation */
-@media only screen and (max-width: 393px) {
+@media (max-width: 393px) {
 
 
     #Header{
@@ -695,7 +695,7 @@ footer .copyright{
         right: -300px;
         width: 200px;
         height: 100vh;
-        background: #b3a31b;
+        background-color: #b3a31b;
         box-shadow: 0 40px 60px rgba(0, 0, 0, 0.1);
         padding: 80px 20px 0;
         transition: right 0.3s ease-in-out;
