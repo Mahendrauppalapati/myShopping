@@ -740,6 +740,10 @@ footer .copyright{
         display: none;
     }
 
+    #feature{
+    padding:0 20px;
+   }
+
     #mobile {
         display: flex;
         align-items: center; 
